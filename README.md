@@ -316,7 +316,7 @@ No se requiere intervención manual para casos normales de reintento.
 
 Las evidencias del proyecto se encuentran en la carpeta `/evid/` e incluyen:
 
-- Configuración de Mage Secrets
+- Configuraci]on de Mage Secrets
 - Triggers one-time ejecutados
 - Tablas con datos en PostgreSQL
 - Verificaciones de integridad e idempotencia
@@ -340,5 +340,6 @@ Las evidencias del proyecto se encuentran en la carpeta `/evid/` e incluyen:
 Universidad San Francisco de Quito  
 **Fecha**: 12 Septiembre 2025
 
+## IA 
 
-FRANCISCO JESUS ALARCON AGUIRRE
+Este README fue creado con la ayuda de IA para que tenga una buena presentacion y formato.
